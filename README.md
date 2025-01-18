@@ -48,7 +48,7 @@ Sección **Nuevo Video** que cuenta con un formulario de carga, en el que el usu
    npm start
 
 4. Conectar con el servidor simulado, ejecutar :
-
+    ```bash
    json-server --watch db.json --port 3001
 
 <h2>Información adicional:</h2>
