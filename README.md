@@ -34,7 +34,7 @@ Sección **Nuevo Video** que cuenta con un formulario de carga, en el que el usu
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/aluraflix.git
+   git clone https://github.com/NoeliaRinetti/Aluraflix.git
    cd aluraflix
    ```
 
