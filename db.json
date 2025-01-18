@@ -1,0 +1,148 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Video de Frontend",
+      "categoria": "backend",
+      "descripcion": "klok",
+      "videoUrl": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "imagen": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+    },
+    {
+      "id": "5",
+      "titulo": "Video de Front End",
+      "categoria": "frontend",
+      "descripcion": "Video de Frontend",
+      "videoUrl": "https://www.youtube.com/watch?v=PztCEdIJITY&t=1s",
+      "imagen": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+    },
+    {
+      "id": "1736465632655",
+      "titulo": "Prueba",
+      "categoria": "",
+      "descripcion": "prueba",
+      "videoUrl": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "imagen": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+    },
+    {
+      "id": "1736465666053",
+      "titulo": "Prueba",
+      "categoria": "",
+      "descripcion": "",
+      "videoUrl": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "imagen": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+    },
+    {
+      "id": "1736465799697",
+      "titulo": "Prueba",
+      "categoria": "frontend",
+      "descripcion": "prueba",
+      "videoUrl": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "imagen": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+    },
+    {
+      "id": "1736543354539",
+      "titulo": "¿Qué son las Soft Skills?",
+      "categoria": "innovacion",
+      "descripcion": "¿Qué son las Soft Skills?",
+      "videoUrl": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "imagen": "https://www.youtube.com/watch?v=vhwspfvI52k"
+    },
+    {
+      "id": "1736543390370",
+      "titulo": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "categoria": "innovacion",
+      "descripcion": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "videoUrl": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "imagen": "https://www.youtube.com/watch?v=YhR7Zp8NUzE"
+    },
+    {
+      "id": "1736543451794",
+      "titulo": "¿Qué son las metodologias ágiles?",
+      "categoria": "innovacion",
+      "descripcion": "¿Qué son las metodologias ágiles?",
+      "videoUrl": "https://www.youtube.com/watch?v=6N3OkLCfK-0&t=6s",
+      "imagen": "https://www.youtube.com/watch?v=6N3OkLCfK-0&t=6s"
+    },
+    {
+      "id": "1736546130754",
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "categoria": "backend",
+      "descripcion": "Explorando el poder del Back-End en el Desarrollo Web",
+      "videoUrl": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "imagen": "https://www.youtube.com/watch?v=Z024LSCMqFk"
+    },
+    {
+      "id": "1736546170394",
+      "titulo": "Simplificando el Back End #AluraTips",
+      "categoria": "backend",
+      "descripcion": "Simplificando el Back End #AluraTips",
+      "videoUrl": "https://www.youtube.com/watch?v=XuSXJ9DUcvY",
+      "imagen": "https://www.youtube.com/watch?v=XuSXJ9DUcvY"
+    },
+    {
+      "id": "1736546206434",
+      "titulo": "Equipo Front End #AluraMás",
+      "categoria": "frontend",
+      "descripcion": "Equipo Front End #AluraMás",
+      "videoUrl": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "imagen": "https://www.youtube.com/watch?v=rpvrLaBQwgg"
+    },
+    {
+      "id": "1736546247434",
+      "titulo": "Desmistificando el Back-End",
+      "categoria": "backend",
+      "descripcion": "Desmistificando el Back-End",
+      "videoUrl": "https://www.youtube.com/watch?v=LLt7FreeHfQ",
+      "imagen": "https://www.youtube.com/watch?v=LLt7FreeHfQ"
+    },
+    {
+      "id": "1736895108958",
+      "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+      "categoria": "backend",
+      "descripcion": "Spring Framework. ¿Qué es ? #AluraMás",
+      "videoUrl": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "imagen": "https://www.youtube.com/watch?v=t-iqt1b2qqk"
+    },
+    {
+      "id": "1736895181582",
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "categoria": "backend",
+      "descripcion": "¿Qué es SQL y NoSQL?",
+      "videoUrl": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "imagen": "https://www.youtube.com/watch?v=cLLKVd5CNLc"
+    },
+    {
+      "id": "1736895251806",
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "categoria": "frontend",
+      "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "videoUrl": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "imagen": "https://www.youtube.com/watch?v=UuAX5azcvDQ"
+    },
+    {
+      "id": "1736895302342",
+      "titulo": "Como utilizar el Display block, inline, inline-block #aluramás",
+      "categoria": "frontend",
+      "descripcion": "Como utilizar el Display block, inline, inline-block #aluramás",
+      "videoUrl": "https://www.youtube.com/watch?v=AG2QssLpQzI",
+      "imagen": "https://www.youtube.com/watch?v=AG2QssLpQzI"
+    },
+    {
+      "id": "1736895385694",
+      "titulo": "Cómo ser más productivo | #aluramás",
+      "categoria": "innovacion",
+      "descripcion": "Cómo ser más productivo | #aluramás",
+      "videoUrl": "https://www.youtube.com/watch?v=TF_Rde1kbw8",
+      "imagen": "https://www.youtube.com/watch?v=TF_Rde1kbw8"
+    },
+    {
+      "id": "1736895446390",
+      "titulo": "Consejos para aumentar tu productividad en el trabajo remoto",
+      "categoria": "innovacion",
+      "descripcion": "Consejos para aumentar tu productividad en el trabajo remoto",
+      "videoUrl": "https://www.youtube.com/watch?v=AULPtYo25Lw",
+      "imagen": "https://www.youtube.com/watch?v=AULPtYo25Lw"
+    }
+  ]
+}

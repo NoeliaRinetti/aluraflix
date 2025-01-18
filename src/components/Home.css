@@ -1,0 +1,99 @@
+
+.home {
+    padding: 2rem;
+    background-color: #121212;
+    color: #ffffff;
+    min-height: 100vh;
+    padding: 20px
+  }
+  
+  .home h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding-top: 0.2rem;
+    
+ 
+  }
+  
+  .categoria {
+    margin-bottom: 3rem;
+    background-color: #121212;
+    
+  }
+
+  .categoria__titulo {
+    
+    width: 27rem;
+    height: 4rem;
+    gap: 0px;
+    opacity: 0px;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    
+    }
+
+  .frontend .categoria__titulo {
+    background-color: #6BD1FF;
+  }
+
+  .backend .categoria__titulo {
+    background-color: #00C86F;
+  }
+  
+  .innovacion .categoria__titulo {
+    background-color: #FFBA05;
+  }
+
+  .frontend .categoria__video {
+    box-shadow: 1px 1px 6px 4px #6BD1FF inset;
+  }
+
+  .frontend .categoria__botones {
+    box-shadow: 1px 1px 6px 1px #6BD1FF;
+  }
+
+  .backend .categoria__video {
+    box-shadow: 1px 1px 6px 4px #00C86F inset;
+  }
+
+  .backend .categoria__botones {
+    box-shadow: 1px 1px 6px 1px #00C86F;
+  }
+
+  .innovacion .categoria__video {
+    box-shadow: 1px 1px 6px 4px #FFBA05 inset;
+  }
+
+  .innovacion .categoria__botones {
+    box-shadow: 1px 1px 6px 1px #FFBA05;
+  }
+
+  @media (max-width: 768px) { 
+    .categoria__titulo {
+      width: 80%; 
+      max-width: 20rem; 
+      height: auto; 
+      margin: 0 auto; 
+      padding: 0.5rem 1rem; 
+      font-size: 1.2rem; 
+      text-align: left;
+    }
+  }
+  
+  @media (max-width: 480px) { 
+    .categoria__titulo {
+      width: 80%; 
+      max-width: 20rem;
+      margin: 0 auto; 
+      font-size: 1.5rem; 
+      text-align: left; 
+    }
+  }
